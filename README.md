@@ -58,7 +58,6 @@ This repo contains all of the code to complete the freeCodeCamp course, "Build a
 
 - [`.env`](.env): Environment variables (contains OpenAI API key)
 - [`requirements.txt`](requirements.txt): Complete list of Python dependencies
-- [`test.py`](test.py): Testing scripts for validation
 - `.gradio/`: Gradio configuration and certificates
 
 ## Technical Requirements
